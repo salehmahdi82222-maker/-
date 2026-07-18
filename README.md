@@ -321,4 +321,3 @@
     </script>
 </body>
 </html>
-](https://github.com/salehmahdi82222-maker/prompt-toranj/edit/main/README.md)
