@@ -89,7 +89,7 @@
     <canvas id="particle-canvas"></canvas>
     <div id="main-view" class="view-container">
         <header>
-            <h1 class="neon-text">استودیو پرامپت</h1>
+            <h1 class="neon-text">پرامپتینو</h1>
             <p class="subtitle">تصویر رویایی خود را در چند مرحله به پرامپتی حرفه‌ای تبدیل کنید</p>
         </header>
         <div class="card">
